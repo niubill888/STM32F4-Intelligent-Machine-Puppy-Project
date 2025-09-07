@@ -1,0 +1,9 @@
+---- EXTI9_5_IRQn Matches (8 in 3 files) ----
+drv_exit9_init in drv_exti.c (E:\华清\stm32\proj\week3pro_6wifichongxie\drivers\drv_exti) : 	NVIC_InitStruct.NVIC_IRQChannel=EXTI9_5_IRQn;
+drv_exit8_init in drv_exti.c (E:\华清\stm32\proj\week3pro_6wifichongxie\drivers\drv_exti) : 	NVIC_InitStruct.NVIC_IRQChannel=EXTI9_5_IRQn;
+drv_exit5_init in drv_exti.c (E:\华清\stm32\proj\week3pro_6wifichongxie\drivers\drv_exti) : 	NVIC_InitStruct.NVIC_IRQChannel=EXTI9_5_IRQn;
+drv_key_init in drv_key.c (E:\华清\stm32\proj\week3pro_6wifichongxie\drivers\drv_key) : 		NVIC_InitStruct.NVIC_IRQChannel = EXTI9_5_IRQn; 		// 对应EXTI5-9中断通道
+IRQn in stm32f4xx.h (E:\华清\stm32\proj\week3pro_6wifichongxie\libraries\CMSIS\Device\ST\STM32F4xx\Include) :   EXTI9_5_IRQn                = 23,     /*!< External Line[9:5] Interrupts                                     */
+IRQn in stm32f4xx.h (E:\华清\stm32\proj\week3pro_6wifichongxie\libraries\CMSIS\Device\ST\STM32F4xx\Include) :   EXTI9_5_IRQn                = 23,     /*!< External Line[9:5] Interrupts                                     */
+IRQn in stm32f4xx.h (E:\华清\stm32\proj\week3pro_6wifichongxie\libraries\CMSIS\Device\ST\STM32F4xx\Include) :   EXTI9_5_IRQn                = 23,     /*!< External Line[9:5] Interrupts                                     */
+IRQn in stm32f4xx.h (E:\华清\stm32\proj\week3pro_6wifichongxie\libraries\CMSIS\Device\ST\STM32F4xx\Include) :   EXTI9_5_IRQn                = 23,     /*!< External Line[9:5] Interrupts                                     */
